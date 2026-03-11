@@ -1,17 +1,43 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chenfeng Duan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a Ph.D. Student at the Department of Computer Science George Mason University.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Education
+=====
+* **[George Mason University](https://www.gmu.edu/)** (Jan 2023 - present), Doctor of Computer Science
+* **[Stevens Institute of Technology](https://www.stevens.edu/)** (Aug 2021 - Dec 2022),  Master of Computer Science
+* **[University of Iowa](https://uiowa.edu/)** (Aug 2017 - May 2021), Bachelor of Computer Science
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Publications
+=====
+* **Model Reuse Through Retargeted-Architecture Binary Code Analysis**  
+  Junzhe Wang\*, **Chenfeng Duan\***, Chuxiong Wu, Qiang Zeng, Lannan Luo.  
+  *IEEE Transactions on Dependable and Secure Computing (TDSC)*  
+  (\* Co-first authors)
 
-A data-driven personal website
+
+Teaching Experience
+======
+* Spring 2026, *CS672, Computer System Performance Evaluation*, Graduate Teaching Assistant.
+* Spring 2026, *CS468, Secure Programming and Systems*, Graduate Teaching Assistant.
+* Spring 2025, *CS468, Secure Programming and Systems*, Graduate Teaching Assistant.
+* Fall 2024, *CS468, Secure Programming and Systems*, Graduate Teaching Assistant.
+
+Awards/Honors
+======
+* International Scholar Award, University of Iowa, 2017 - 2021.
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+
+ You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -53,4 +79,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
