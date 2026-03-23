@@ -23,7 +23,7 @@ Publications
 * **Model Reuse Through Retargeted-Architecture Binary Code Analysis**  
   Junzhe Wang\*, **Chenfeng Duan\***, Chuxiong Wu, Qiang Zeng, Lannan Luo.  
   *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2026.  
-  (\* Co-first authors)
+  (\* These two authors have contributed equally)
 
 
 Teaching Experience
